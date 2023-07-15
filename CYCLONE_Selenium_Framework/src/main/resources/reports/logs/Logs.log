@@ -1,0 +1,49 @@
+[INFO ] 2023-07-15 14:12:57.316 [main] LoggingManager - 
+=====================================================================================================================================================
+                                                            Starting CYCLONE v1.0
+=====================================================================================================================================================
+[INFO ] 2023-07-15 14:12:57.322 [main] LoggingManager - 
+                                                            STARTING EXECUTION OF SUITE:
+                                                            Name: Main_Test_Suite || TCs No. : 1
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2023-07-15 14:12:57.332 [main] LoggingManager - 
+                                                            STARTING EXECUTION OF TEST:
+                                                            Name: DemoTest
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2023-07-15 14:12:57.399 [main] LoggingManager - 
+                                                            Executing The Configuration Method: 
+                                                            Name: setUp
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2023-07-15 14:12:57.431 [main] LoggingManager - 
+                                                            " 1chromeee " 
+                                                            LOOKS LIKE YOU HAVE A TYPO WITH YOUR " CHROME "  DRIVER.
+                                                            NO WORRIES, I'M FIXING IT.
+[INFO ] 2023-07-15 14:13:02.081 [main] LoggingManager - 
+                                                            Successfully Setup: CHROME DRIVER
+[INFO ] 2023-07-15 14:13:02.214 [main] LoggingManager - 
+                                                            Setting Window Size to : Maximize
+[INFO ] 2023-07-15 14:13:03.425 [main] LoggingManager - 
+                                                            STARTING EXECUTION OF THE FOLLOWING:
+                                                            Method: registerTest || Class: DemoNopRegisterTest
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2023-07-15 14:13:05.119 [main] LoggingManager - Clicking on element -> Register >> By.className: ico-register
+[INFO ] 2023-07-15 14:13:05.887 [main] LoggingManager - Clicking on element -> Male >> By.id: gender-male
+[INFO ] 2023-07-15 14:13:06.663 [main] LoggingManager - Sending > firstNameDemo < to element -> First name: >> By.id: FirstName
+[INFO ] 2023-07-15 14:13:07.404 [main] LoggingManager - Sending > lastNameDemo < to element -> Last name: >> By.id: LastName
+[INFO ] 2023-07-15 14:13:08.135 [main] LoggingManager - Selecting Value > 27 < from dropdown -> By.name: DateOfBirthDay
+[INFO ] 2023-07-15 14:13:08.838 [main] LoggingManager - Selecting Value > 7 < from dropdown -> By.name: DateOfBirthMonth
+[INFO ] 2023-07-15 14:13:09.530 [main] LoggingManager - Selecting Value > 1995 < from dropdown -> By.name: DateOfBirthYear
+[INFO ] 2023-07-15 14:13:10.247 [main] LoggingManager - Sending > demomail@gmail.com < to element -> Email: >> By.id: Email
+[INFO ] 2023-07-15 14:13:10.940 [main] LoggingManager - Sending > passwordDemo < to element -> Password: >> By.id: Password
+[INFO ] 2023-07-15 14:13:11.626 [main] LoggingManager - Sending > passwordDemo < to element -> Confirm password: >> By.id: ConfirmPassword
+[INFO ] 2023-07-15 14:13:13.593 [main] LoggingManager - Getting Text from element -> By.className: result
+[INFO ] 2023-07-15 14:13:13.620 [main] LoggingManager - 
+                                                            Executing The Configuration Method: 
+                                                            Name: tearDown
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2023-07-15 14:13:14.288 [main] LoggingManager - 
+                                                            Successfully Quit The Driver
+[INFO ] 2023-07-15 14:13:14.293 [main] LoggingManager - 
+                                                            FINISHED EXECUTION OF TEST:
+                                                            Name: DemoTest
+-----------------------------------------------------------------------------------------------------------------------------------------------------
